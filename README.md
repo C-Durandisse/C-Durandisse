@@ -12,10 +12,10 @@
   - Responsable de données dans un organe public
 
 -Outils utilisés
-    - Statistiques : R, Excel
-    - Préparation et traitement de données : Excel, SQL (Bigquery)
-    - Visualisation / Tableaux de bord : Tableau, Power BI
-    - ETL : Bigquery, Excel
+- Statistiques : R, Excel
+- Préparation et traitement de données : Excel, SQL (Bigquery)
+- Visualisation / Tableaux de bord : Tableau, Power BI
+- ETL : Bigquery, Excel
 <!---
 C-Durandisse/C-Durandisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
