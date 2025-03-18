@@ -6,6 +6,10 @@
 - 😄 Pronom: Il/lui
 - ⚡ Jeux vidéos, Dominos, actuellement je suis intéressé par le jeu d'echec
 
+-Expériences professionnelles
+  - Analyste de crédit dans une coopérative d'épargne et de crédit
+  - Analyste veilleur dans une agence de Notation
+  - Responsable de données dans un organe public
 <!---
 C-Durandisse/C-Durandisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
