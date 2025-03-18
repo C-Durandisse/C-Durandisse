@@ -11,7 +11,7 @@
   - Analyste veilleur dans une agence de Notation
   - Responsable de données dans un organe public
 
-- Outils utilisés:
+-Outils utilisés:
     - Statistiques : R, Excel
     - Préparation et traitement de données : Excel, SQL (Bigquery)
     - Visualisation / Tableaux de bord : Tableau, Power BI
