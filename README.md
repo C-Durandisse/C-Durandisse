@@ -13,7 +13,7 @@
 
 -Outils utilisés
 - Statistiques : R, Excel
-- Préparation et traitement de données : Excel, SQL (Bigquery)
+- Préparation et traitement de données : Excel, SQL
 - Visualisation / Tableaux de bord : Tableau, Power BI
 - ETL : Bigquery, Excel
 <!---
