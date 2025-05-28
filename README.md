@@ -16,6 +16,7 @@
 - Préparation et traitement de données : Excel, SQL
 - Visualisation / Tableaux de bord : Tableau, Power BI
 - ETL : Bigquery, Excel
+- Veille : Sindup, Talkwalker, réseaux sociaux
 <!---
 C-Durandisse/C-Durandisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
